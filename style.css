@@ -1,3 +1,39 @@
+.header {
+    display: flex;
+    
+}
+.header *{
+    margin: 10px;
+}
+
+.a_link{
+    color: black;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 5px;
+}
+.a_link:hover{
+    
+    text-decoration: underline;
+}
+
+#squares{
+    background-color:gray;
+    width: 28px;
+}
+#squares:hover{
+    background-color: black;
+    
+}
+#profile{
+    /*background-color:gray;*/
+    width: 30px;
+}
+.image{
+    margin: 0px;
+}
+
+
 .main-div{
     margin:5px 0px; 
     padding:0px;
