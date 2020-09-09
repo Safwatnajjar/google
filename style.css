@@ -1,0 +1,28 @@
+.main-div{
+    margin:5px 0px; 
+    padding:0px;
+    text-align:center;
+/*    align:center;*/
+}
+
+
+
+input[type="text"]{
+        margin: 5px;
+        width: 50%;
+        box-sizing: content-box;
+        border: 1px solid #ccc;
+        border-radius: 40px;
+        font-size: 16px;
+        background-color: white;
+        background-image: url(images/search2.png);
+        background-position: 10px 10px; 
+        background-repeat: no-repeat;
+        padding: 12px 20px 12px 40px;
+}
+
+input[type="text"]:hover {       
+    box-shadow: 1px 1px 4px 1px  lightgray ;
+
+}
+
